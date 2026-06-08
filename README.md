@@ -28,6 +28,7 @@ The audio files are named according to the following system:
 - `Topic` = topic condition
 - `TopicM` = marked topic condition
 - `Preference` = preference question in filler items
+- `CommonKnowledge` = Common Knowledge question in filler items
 - `Left` / `Right` = answer position in filler items
 
 For example:
@@ -38,7 +39,8 @@ For example:
 - `HK-1-A-Focus.wav` refers to Hakka item 1, answer stimulus, focus condition.
 - `HK-1-A-Topic.wav` refers to Hakka item 1, answer stimulus, topic condition.
 - `HK-F8-Q-Preference.wav` refers to Hakka filler item 8, preference question.
-- `HK-F8-A-Left.wav` and `HK-F8-A-Right.wav` refer to the left answer for filler item 8.
+- `HK-F15-Q-CommonKnowledge.wav` refers to Hakka filler item 15, Common Knowledge question.
+- `HK-F8-A-Left.wav` refer to the left answer for filler item 8.
 - `HK-P1-Q-Focus.wav` refers to Hakka practice item 1, question stimulus, focus condition.
 
 ## Audio format
